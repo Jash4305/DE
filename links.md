@@ -18,7 +18,8 @@ B1 = B2 ⊕ G1
 B0 = B1 ⊕ G0
 
 Exp 4:
-A) Even Bit Parity Generator: [https://www.tinkercad.com/things/b5HJ1rpbShP-exp-4-3-bit-parity-generator?sharecode=a27RG0BRvpEVS0L6Ic_8PKiFNdNUL1RNIbw3Csnl3cU] Link
+A) Even Bit Parity Generator: https://www.tinkercad.com/things/b5HJ1rpbShP-exp-4-3-bit-parity-generator?sharecode=a27RG0BRvpEVS0L6Ic_8PKiFNdNUL1RNIbw3Csnl3cU
+
 B) Odd Bit Parity Generator: https://www.tinkercad.com/things/b5HJ1rpbShP-exp-4-3-bit-parity-generator?sharecode=a27RG0BRvpEVS0L6Ic_8PKiFNdNUL1RNIbw3Csnl3cU
 C) Even Bit Parity Checker: https://www.tinkercad.com/things/hl2nTus8VCg-exp-4-3-bit-parity-checker?sharecode=KKLCV4xxP9OvuxwYWe75F2eIlAEBF_4onoqeIRLBCb4
 D) Odd Bit Parity Checker: https://www.tinkercad.com/things/hl2nTus8VCg-exp-4-3-bit-parity-checker?sharecode=KKLCV4xxP9OvuxwYWe75F2eIlAEBF_4onoqeIRLBCb4
