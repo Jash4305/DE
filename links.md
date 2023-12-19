@@ -1,20 +1,24 @@
-Exp 2: 
-A) EXOR using NOR: 
-B) EXOR using NAND:
-C) ENOR using NOR:
-D) ENOR using NAND:
-
 Exp 3:
+
 A) Binary To Grey Code: 
+
 G3 = B3
+
 G2 = B3 ⊕ B2
+
 G1 = B2 ⊕ B1
+
 G0 = B1 ⊕ B0
 
+
 B) Grey To Binary Code:
+
 B3 = G3
+
 B2 = B3 ⊕ G2
+
 B1 = B2 ⊕ G1
+
 B0 = B1 ⊕ G0
 
 Exp 4:
